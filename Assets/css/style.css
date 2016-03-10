@@ -13,7 +13,7 @@
     text-align: right;
   }
  li > a {
-   text-decoration-color: white;
+   color: #545452;
    text-decoration: none;
-   font-weight: 400; 
+   font-weight: 400;
  }
